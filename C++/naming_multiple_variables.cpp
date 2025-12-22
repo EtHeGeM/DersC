@@ -1,3 +1,4 @@
+// Shows different naming styles and chained assignments for variables.
 #include <stdio.h>
 
 int main() {

@@ -1,3 +1,4 @@
+// Reads two integers from the user and prints their sum.
 #include <stdio.h>
 
 int main() { 

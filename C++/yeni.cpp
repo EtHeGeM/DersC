@@ -1,3 +1,4 @@
+// Minimal hello world example using iostream output.
 #include <iostream>
 using namespace std;
 

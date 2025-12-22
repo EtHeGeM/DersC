@@ -1,3 +1,4 @@
+// Declares a compile-time constant and notes immutability.
 #include <stdio.h>
 
 using namespace std;

@@ -1,3 +1,4 @@
+// Evaluates relational operators on two constants and prints the results.
 #include <stdio.h>
 
 using namespace std;

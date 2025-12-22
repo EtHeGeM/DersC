@@ -1,3 +1,4 @@
+// Checks whether two given numbers exist inside a fixed array of integers.
 #include <stdio.h>
 
 int var_mi(int a, int b) {

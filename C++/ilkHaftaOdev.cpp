@@ -5,3 +5,4 @@
 // 1 Euro = 20.00 TL    
 // Üçü de Türk lirası cinsinden, ASCII tablosundaki para birimi sembolü (₺) ile birlikte ekrana yazdırılacaktır.
 // İşlemleri de string şeklinde ekrana yazdırınız. Örneğin: "100 Dolar = 1850₺"
+// Not: Girdi doğrulaması yapıp toplamı tek satırda gösterebilirsiniz.

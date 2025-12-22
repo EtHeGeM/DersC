@@ -1,3 +1,4 @@
+// Runs through arithmetic operators and shows how prefix increment/decrement behave.
 #include <stdio.h>
 
 int main(){
@@ -10,8 +11,8 @@ int main(){
     int product = a * b;      // Multiplication
     int quotient = a / b;     // Division
     int remainder = a % b;    // Modulus
-    int newInt = ++a;          // Unary plus
-    int oldInt = --a;     // Unary minus
+    int newInt = ++a;         // Prefix increment updates and returns the new value
+    int oldInt = --a;         // Prefix decrement after previous increment
 
     // Printing the results
     printf("Sum: %d\n", sum);
@@ -22,4 +23,5 @@ int main(){
     printf("New Integer after Unary Plus: %d\n", newInt);
     printf("Old Integer after Unary Minus: %d\n", oldInt);
 
-    return 0; }
+    return 0;
+}

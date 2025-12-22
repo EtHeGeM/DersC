@@ -1,3 +1,4 @@
+// Shows how compound assignment operators update a running value.
 #include <stdio.h>
 
 int main(){     

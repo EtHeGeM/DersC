@@ -1,5 +1,4 @@
-// the auto keyword
-
+// Demonstrates type inference with the auto keyword.
 #include <stdio.h>
 
 int main() {
@@ -9,7 +8,7 @@ int main() {
     auto doubleVar = 3.14;              // inferred as double
     auto charVar = 'A';                 // inferred as char
     auto stringVar = "Hello, World!";   // inferred as const char*
-    integerVar = 9.2;
+    integerVar = 9.2;                   // narrowing assignment; value becomes 9
 
     // Printing the values
     printf("Integer: %d\n", integerVar);
