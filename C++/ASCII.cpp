@@ -9,5 +9,6 @@ int main(){
 
     printf("Characters: %c %c %c\n", a, b, c);
     printf("%s", d.c_str());
+    printf("\u20BA\n");
     return 0;
 }
