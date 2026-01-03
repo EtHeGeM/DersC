@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 int main() {
     // Declare and initialize an array of integers
